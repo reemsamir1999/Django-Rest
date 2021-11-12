@@ -125,4 +125,4 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 MEDIA_URL = '/media/'
-MEDIA_ROOT = 'E:\ITI\Rest\MediaRoot'
+MEDIA_ROOT = 'E:\ITI\Django RestFramework\MediaRoot'
